@@ -1,0 +1,72 @@
+object
+ 
+public set value(v : string) {
+    this. = v;
+  }
+ 
+object
+ 
+
+    this.age = age;
+ 
+
+  protected age;
+ 
+person1
+ 
+object
+ 
+ ${
+      product.available ? 'Total ${product.stock} ta ace' : 'stock e nai'
+    }
+ 
+is
+ 
+object
+ 
+
+
+ 
+object
+ 
+type ADD = (...a: number[]) => number[];
+const add: ADD = (...a) => {
+  return a;
+};
+console.log(add(2, 6, 5));
+ 
+if (typeof b === 'undefined') {
+    return a;
+  } else {
+    return a + b;
+  }
+ 
+ number, b?:
+ 
+condition
+ 
+
+
+ 
+
+
+ 
+object
+ 
+ console.log
+ 
+function add
+ 
+object
+ 
+object
+ 
+const car = {
+  type: "Toyota",
+};
+car.type = "Ford";
+ 
+object
+ 
+object
+ 
